@@ -4,7 +4,7 @@ Mavick is an Ansible-based tool written in Go for configuring operating systems 
 
 ## Installation
 
-To install Mavick, you can download the latest binary release from the [releases](https://github.com/yourusername/mavick/releases) page. Alternatively, you can also build Mavick from source by following these steps:
+To install Mavick, you can download the latest binary release from the [releases](https://github.com/legitShivam/mavick/releases) page. Alternatively, you can also build Mavick from source by following these steps:
 
 1. Clone the Mavick repository:
 
